@@ -8,7 +8,6 @@ import java.lang.reflect.Modifier;
 import java.lang.reflect.Type;
 
 public class Inicio {
-	// public class Inicio extends Tipos {
 
 	public static void main(String[] args) {
 		MiClase objetoDeMiClase = new MiClase();
